@@ -1,2 +1,2 @@
 # typescript-aop-framework
-## 给koa添加htto请求装饰器
+## 给koa添加http请求装饰器
